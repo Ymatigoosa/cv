@@ -25,13 +25,11 @@
 ---
 ## Open Source
 #### [Preg question type for Moodle](https://docs.moodle.org/31/en/Preg_question_type)
-Moodle is a free and open-source learning management system. Preg question type is a module that provides opportunity to use regular expressions to for checking aswers for test questions. But teachers who need to write those regular expressions barely know how to do it. To help authoring tool was created.
+Moodle is a free and open-source learning management system. Preg question type is a module that provides opportunity to use regular expressions to for checking aswers for test questions.
 
-This tool helps to see how regular expressions works and describe it to teacher. Also this tool help students to learn regular expressions.
+I was a creator of interactive javascript dialog that helps teachers to write regular expressions and module that generates text description of a regular expression in a natural language.
 
-I was creator of user inferface and module that generates text description of a regular expression in a natural language.
-
-[bitbucket](https://bitbucket.org/oasychev/moodle-plugins-preg)
+[bitbucket](https://bitbucket.org/oasychev/moodle-plugins-preg) ![bitbucketicon][]
 
 ---
 
