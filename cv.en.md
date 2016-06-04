@@ -3,7 +3,7 @@
 ---
 
 > #### Software developer
-> #####  Russia, Volgograd &emsp; [@ymatigoosa][twitter] ![twit][]
+> #####  Russia, Volgograd &emsp; [@ymatigoosa][twitter]
 > `DDD`, `CQRS`, `Scala`, `Akka`, `React.js`
 
 ---
@@ -25,13 +25,15 @@
 ---
 ## Open Source
 #### [Preg question type for Moodle](https://docs.moodle.org/31/en/Preg_question_type)
+
+`PHP`, `Javascript `
+
 Moodle is a free and open-source learning management system. Preg question type is a module that provides opportunity to use regular expressions to for checking aswers for test questions.
 
 I was a creator of interactive javascript dialog that helps teachers to write regular expressions and module that generates text description of a regular expression in a natural language.
 
-[bitbucket](https://bitbucket.org/oasychev/moodle-plugins-preg) ![bitbucketicon][]
+[Bitbucket](https://bitbucket.org/oasychev/moodle-plugins-preg)
 
 ---
 
 [twitter]: https://twitter.com/ymatigoosa
-[twit]: http://cdn-careers.sstatic.net/careers/Img/icon-twitter.png?v=b1bd58ad2034
