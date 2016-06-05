@@ -3,8 +3,18 @@
 ---
 
 > #### Software developer
-> #####  Russia, Volgograd &emsp; [@ymatigoosa][twitter]
+> #####  Russia, Volgograd &emsp;
 > `DDD`, `CQRS`, `Scala`, `Akka`, `React.js`
+
+I am developer from Volgograd. I am involved in development of banking software backend and realtime frontend. I believe that functional programming will save the world someday.
+
+You can contact me via:
+
+phone: +79996252802
+
+skype: topt_iiiii
+
+github: [pahomovda](https://github.com/pahomovda)
 
 ---
 ## Experience
