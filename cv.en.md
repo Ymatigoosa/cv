@@ -8,6 +8,8 @@
 
 I am developer from Volgograd. I am involved in development of banking software backend and realtime frontend. I believe that functional programming will save the world someday.
 
+I am willing to relocate or remote job. Prefered locations for relocation: Russia, Saint Petersburg / english speaking countries.
+
 You can contact me via:
 
 phone: +79996252802
