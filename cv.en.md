@@ -20,7 +20,7 @@ github: [pahomovda](https://github.com/pahomovda)
 ## Experience
 #### TECHNO Ltd. &emsp; <small>*2014 - current*</small>
 `C#`, `Node.js`, `Scala`, `Akka`, `React.js`, `RethinkDB`, `PostgreSQL`
-> Developing a system for remote management of payment terminals. System allows remotely update payment device, monitor state of a devices network and analyze occured events.
+> Developing a system for remote management of payment terminals. System allows remotely update payment device, monitor state of a devices network and analyzes occured events.
 > 
 > I am involved in the design of the system architecture, the development of real-time user interface, a devices gateway service and event analysing service.
 
