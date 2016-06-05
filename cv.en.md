@@ -38,7 +38,7 @@ github: [pahomovda](https://github.com/pahomovda)
 
 `PHP`, `Javascript `
 
-Moodle is a free and open-source learning management system. Preg question type is a module that provides opportunity to use regular expressions to for checking aswers for test questions.
+Moodle is a free and open-source learning management system. Preg question type is a module that provides opportunity to use regular expressions to for checking answers for test questions.
 
 I was a creator of interactive javascript dialog that helps teachers to write regular expressions and module that generates text description of a regular expression in a natural language.
 
