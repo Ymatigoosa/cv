@@ -6,7 +6,7 @@
 > #####  Russia, Volgograd &emsp;
 > `DDD`, `CQRS`, `Scala`, `Akka`, `React.js`
 
-I am a developer from Volgograd. I am involved in development of banking software backend and realtime frontend. I am interested in techniques of reducing software complexity and functional programming.
+I am a developer from Volgograd. I am involved in development of banking software backend and realtime frontend. I am interested in designing and developing non-trivial web services using cutting edge technologies.
 
 I am willing to relocate or to have a remote job. Preferred places for relocation: Russia, Saint Petersburg or english speaking countries.
 
