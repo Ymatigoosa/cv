@@ -28,7 +28,7 @@ github: [pahomovda](https://github.com/pahomovda)
 
 ---
 ## Education
-#### Bachelor of Software Engineering &emsp; <small>*2009 - 2014*</small>
+#### Bachelor of Software Engineering at Volgograd State Technical University &emsp; <small>*2009 - 2014*</small>
 `C++`, `Java`, `Scala`, `PHP`, `Javascript `
 > Developed algorithm of generation text description of a regular expression in a natural language. This algorithms was used as part of Moodle Preg (described below).
 > 
