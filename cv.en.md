@@ -14,13 +14,24 @@ You can contact me via:
 
 phone: +79996252802
 
+telegram: +79996252802
+
 skype: topt_iiiii
 
 github: [pahomovda](https://github.com/pahomovda)
 
+email: 	topt.iiiii@gmail.com
+
 ---
 ## Experience
-#### TECHNO Ltd. &emsp; <small>*2014 - current*</small>
+#### [Mechanic.guide](https://mechanic.guide) &emsp; <small>*2016 - current*</small>
+`Scala`, `Akka`, `PostgreSQL`, `MongoDB`, `ElasticSearch`, `Kafka`, `EventSourcing`
+> Backend teamlead at Mechanic.guide 
+>
+> Design and development of a distributed micro-service system using the DDDD and cutting-edge technologies. 
+> My responsibilities includes overall system design, design of message driven service interactions and developing event sourced modules.
+
+#### TECHNO Ltd. &emsp; <small>*2014 - 2016*</small>
 `C#`, `Node.js`, `Scala`, `Akka`, `React.js`, `RethinkDB`, `PostgreSQL`
 > Developing a system for remote management of payment terminals. System allows remotely update payment device, monitor state of a devices network and analyzes occured events.
 > 
@@ -46,6 +57,3 @@ I was a creator of interactive javascript dialog that helps teachers to write re
 
 [Bitbucket](https://bitbucket.org/oasychev/moodle-plugins-preg)
 
----
-
-[twitter]: https://twitter.com/ymatigoosa
