@@ -32,7 +32,7 @@ Mentoring new coworkers and students from our fintech school
 > Developing user-facing high loaded api for investing app
 Analysis and development business features, application architecture and common scala libraries
 
-#### [Mechanic.guide](https://mechanic.guide) &emsp; <small>*Sep 2016 - Nov 2018*</small>
+#### [Mechanic.guide](https://mechanic.guide) - Scala TeamLead &emsp; <small>*Sep 2016 - Nov 2018*</small>
 `Scala`, `Akka`, `PostgreSQL`, `MongoDB`, `ElasticSearch`, `Kafka`, `EventSourcing`
 > Backend teamlead at Mechanic.guide 
 >
