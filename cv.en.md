@@ -2,19 +2,17 @@
 
 ---
 
-> #### Software developer
-> #####  Russia, Volgograd &emsp;
-> `DDD`, `CQRS`, `Scala`, `Akka`, `React.js`
+> #### Scala developer
+> #####  Russia, Saint Petersburg &emsp;
+> `System design`, `DDD`, `CQRS`, `Scala`, `Akka`, `Cats`, `ZIO`, `Kafka`, `Couchbase`, `Cassandra`
 
-I am a developer from Volgograd. I am interested in designing and developing non-trivial web services using cutting edge technologies.
+I am a developer from Saint Petersburg. I am interested in designing and developing non-trivial web services using cutting edge technologies.
 
 I am willing to relocate or to have a remote job. Preferred places for relocation: Russia, Saint Petersburg or english speaking countries.
 
 You can contact me via:
 
-phone/telegram: +79996252802
-
-skype: topt_iiiii
+phone/telegram/viber/whatsapp: +79996252802
 
 github: [pahomovda](https://github.com/pahomovda)
 
@@ -22,14 +20,26 @@ email: 	topt.iiiii@gmail.com
 
 ---
 ## Experience
-#### [Mechanic.guide](https://mechanic.guide) &emsp; <small>*2016 - current*</small>
+#### [Tinkoff Investments](https://www.tinkoff.ru/invest/) - Scala TechLead &emsp; <small>*Jan 2021 - current*</small>
+`System design`, `Scala`, `Cats`, `ZIO`, `Kafka`, `Cassandra`, `Postgres`, `Couchbase`
+> Designing user-facing high loaded api for investing app
+Designing application architecture, taking part in designing solution architecture
+Designing set of common scala libs for sharing telemetry, resilience and fault tolerance patterns across department
+Mentoring new coworkers and students from our fintech school
+
+#### [Tinkoff Investments](https://www.tinkoff.ru/invest/) - Senior Scala developer &emsp; <small>*Nov 2018 - Jan 2021*</small>
+`Scala`, `Cats`, `Akka`, `Kafka`, `Cassandra`, `Postgres`, `Oracle`
+> Developing user-facing high loaded api for investing app
+Analysis and development business features, application architecture and common scala libraries
+
+#### [Mechanic.guide](https://mechanic.guide) &emsp; <small>*Sep 2016 - Nov 2018*</small>
 `Scala`, `Akka`, `PostgreSQL`, `MongoDB`, `ElasticSearch`, `Kafka`, `EventSourcing`
 > Backend teamlead at Mechanic.guide 
 >
 > Design and development of a distributed micro-service system using the DDDD and cutting-edge technologies. 
 > My responsibilities includes overall system design, design of message driven service interactions and developing event sourced modules.
 
-#### TECHNO Ltd. &emsp; <small>*2014 - 2016*</small>
+#### TECHNO Ltd. - C# developer &emsp; <small>*Jul 2014 - Aug 2016*</small>
 `C#`, `Node.js`, `Scala`, `Akka`, `React.js`, `RethinkDB`, `PostgreSQL`
 > Developing a system for remote management of payment terminals. System allows remotely update payment device, monitor state of a devices network and analyzes occured events.
 > 
