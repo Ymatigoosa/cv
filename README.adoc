@@ -6,15 +6,14 @@
 == Scala developer
 
 `System design`, `DDD`, `CQRS`, `Scala`, `Akka`, `Cats`, `ZIO`, `Kafka`,
-`Couchbase`, `Cassandra`
+`Couchbase`, `Cassandra` 
 
-I am a developer from Saint Petersburg. I am interested in designing and
-developing non-trivial systems using cutting edge technologies. 
+Passionate software engineer with almost 10 years of experience of designing and developing non-trivial high loaded services and libraries that helps applications to sustain such high workloads. I have mentored new employees and students in scala fintech school.
 
 I am willing to relocate or to have a remote job.
 
 [horizontal]
-currrent location:: Russia, Saint Petersburg
+currrent location:: Kazakhstan, Almaty
 email:: topt.iiiii@gmail.com
 messengers:: +79996252802 image:telegram.svg[20,20]  
 repositories:: https://github.com/pahomovda[pahomovda] image:GitHub-Mark-Light-64px.png[link=https://github.com/pahomovda,20,20]
@@ -50,4 +49,4 @@ Jul 2014:: C# developer @ TECHNO Ltd. +
 [horizontal]
 2009 - 2014:: Bachelor of Software Engineering @ Volgograd State Technical University + 
 `C++`, `Java`, `Scala`, `PHP`, `Javascript` + 
-Developed algorithm of generation text description of a regular expression in a natural language. This algorithms was used as part of Moodle Preg (described below). The work was presented at some conferences and awarded prizes. Also there was several papers about this subject
+Developed a module that generates text description of a regular expression in a natural language. This module was used as part of "Preg" plugin for open source learnig platform Moodle. This work was presented at some conferences and recieved prizes. Also there was several papers about this subject
