@@ -3,6 +3,12 @@
 :iconsdir: ./icons
 :nofooter:
 
+////
+asciidoctor -a stylesdir="$(pwd)" -a sytlesheet=resume-orange.css *.adoc
+
+asciidoctor-pdf -a stylesdir="$(pwd)" -a sytlesheet=resume-orange.css *.adoc
+////
+
 == Scala developer
 
 `System design`, `DDD`, `CQRS`, `Scala`, `Akka`, `Cats`, `ZIO`, `Kafka`,
