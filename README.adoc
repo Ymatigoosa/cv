@@ -13,7 +13,7 @@ Passionate software engineer with almost 10 years of experience of designing and
 I am willing to relocate or to have a remote job.
 
 [horizontal]
-currrent location:: Kazakhstan, Almaty
+currrent location:: Dubai, United Arab Emirates
 email:: topt.iiiii@gmail.com
 messengers:: +79996252802 image:telegram.svg[20,20]  
 repositories:: https://github.com/pahomovda[pahomovda] image:GitHub-Mark-Light-64px.png[link=https://github.com/pahomovda,20,20]
